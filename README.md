@@ -1,1 +1,1 @@
-# factbook-api
+# factbook-api-generator
